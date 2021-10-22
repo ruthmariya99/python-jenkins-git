@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../python-heroku-app/.idea/python-heroku-app.iml" filepath="$PROJECT_DIR$/../python-heroku-app/.idea/python-heroku-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pythontdd.iml" filepath="$PROJECT_DIR$/.idea/pythontdd.iml" />
     </modules>
   </component>
